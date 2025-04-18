@@ -3,5 +3,6 @@
 - Software developer
 - Cryptography
 - Security
-
+- Embedded
+  
 
